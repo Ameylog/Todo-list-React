@@ -32,4 +32,4 @@ This Todo List App is a web application built using React.js and styled with Tai
 
 ---
 
-Feel free to customize this README according to your project's specific details and needs. Don't forget to include a screenshot or demo GIF to showcase your Todo List App's user interface.
+
